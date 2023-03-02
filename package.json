@@ -1,6 +1,19 @@
 {
   "name": "@logitar/logitar-ui",
   "version": "0.0.0",
+  "description": "React UI Components Library for all Logitar projects.",
+  "author": "Logitar",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Logitar/Logitar-UI"
+  },
   "type": "module",
   "scripts": {
     "dev": "cd example && vite",
